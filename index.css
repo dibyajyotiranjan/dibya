@@ -21,6 +21,7 @@ html{
     background-color:#666666;
     overflow: hidden;
 }
+/*
 .center:before{
     content: "";
     width: 100%;
@@ -60,7 +61,7 @@ span:nth-child(2) {
 }
 span:nth-child(3) {
     animation-delay: 1.32s;
-}
+} */
 @keyframes load{
     0%{
         left: 0;
